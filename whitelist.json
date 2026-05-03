@@ -1,6 +1,8 @@
 {
   "streamer_ids": ["dakillzor", "worldoftanks"],
   "keywords": ["drops", "OLS", "AMD"],
+  "event_start": "01.05.2026 00:00",
+  "event_end": "03.05.2026 23:59",
   "event_name": "AMD OLS Season 6",
   "article_url": "https://worldoftanks.eu/de/news/live-streams/token-store-april-2026/",
   "banner_image": "https://eu-wotp.wgcdn.co/dcont/fb/image/amd_ols_season_6_high_center_1920x900.jpg"
